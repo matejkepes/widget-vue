@@ -18,8 +18,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "core-js": "^3.8.3",
-    "vue": "^3.2.21"
+    "core-js": "^3.8.3"
   },
   "peerDependencies": {
     "vue": "^3.2.21"
